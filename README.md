@@ -1,7 +1,7 @@
 ## Oii!! Eu sou a Helena Guimarães Furtado
 
 <p align="left"> 
- No momento estou apenas estudando minha primeira graduação em Ciênncia da Computação mas estou aberta a oportunidades de trabalhos na área
+ No momento estou estudando minha primeira graduação em Ciência da Computação mas estou aberta a oportunidades de trabalhos na área
 </p>
 
 <p align="left">
