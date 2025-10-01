@@ -28,5 +28,5 @@
   <a href="#" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/helena-furtado-21b543338" alt="LinkedIn"/></a>
  📞 +55 (61) 99187-0762
- <a href="helenafurtado25@gmail.com" tittle="Gmail">
+ 📧 helenafurtado25@gmail.com
 </p>
