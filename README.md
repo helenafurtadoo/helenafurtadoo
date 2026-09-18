@@ -1,7 +1,8 @@
 <div align="center">
   <!-- Troque SEU_TEXTO_ANIMADO_AQUI pela frase que você quer animar. Use + no lugar dos espaços. -->
   <a href="https://git.io/typing-svg">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E600&width=435&lines=Oii++bem-vindo+ao+meu+perfil+!" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=73C74A&width=435&lines=Oii++bem-vindo+ao+meu+perfil+!" alt="Typing SVG" />
+  </a>
 </div>
 
 #
@@ -16,8 +17,8 @@ Estou sempre buscando aprender novas tecnologias e colocar meus conhecimentos em
 
 <h3 align="left">Conecte-se comigo!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color=FFC107)](mailto:helenafurtado25@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color=FFC107)](https://www.linkedin.com/in/helenaguimar%C3%A3esfurtado/)
+[![E-mail](https://img.shields.io/badge/-Email-151515?style=for-the-badge&logo=microsoft-outlook&logoColor=FFD21A&labelColor=151515&color=FFC107)](mailto:helenafurtado25@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=FFD21A&labelColor=151515&color=FFC107)](https://www.linkedin.com/in/helenaguimar%C3%A3esfurtado/)
 
 <h3 align="left">Minhas tecnologias ~</h3>
 
@@ -56,8 +57,8 @@ Estou sempre buscando aprender novas tecnologias e colocar meus conhecimentos em
 />
 <img
     align="left"
-    alt="GitHub"
-    title="GitHub"
+    alt="Java"
+    title="Java"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
@@ -81,20 +82,20 @@ Estou sempre buscando aprender novas tecnologias e colocar meus conhecimentos em
     alt="Suas estatísticas do GitHub"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=helenafurtadoo&show_icons=true&locale=pt-br&hide=contribs&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=Minhas%20estat%C3%ADsticas"
+    src="https://github-readme-stats-tvg6.vercel.app/api?username=helenafurtadoo&show_icons=true&locale=pt-br&hide=contribs&bg_color=151515&title_color=FFD21A&text_color=EAEAEA&icon_color=73C74A&border_color=3F7B30&ring_color=FFD21A&custom_title=Minhas%20estat%C3%ADsticas"
   />
 
   <img
     align="left"
     alt="Suas linguagens mais usadas"
     height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=helenafurtadoo&layout=compact&custom_title=Tecnologias&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff"
+    src="https://github-readme-stats-tvg6.vercel.app/api/top-langs/?username=helenafurtadoo&layout=compact&custom_title=Tecnologias&langs_count=8&bg_color=151515&title_color=FFD21A&text_color=EAEAEA&icon_color=73C74A&border_color=3F7B30&ring_color=FFD21A"
   />
 </p>
 
 <!-- Troque SEU_USUARIO_GITHUB e SEU_REPOSITORIO_DO_PERFIL nas três URLs. A animação depende de um SVG gerado no seu repositório. -->
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_REPOSITORIO_DO_PERFIL/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/helenafurtadoo/helenafurtadoo/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_REPOSITORIO_DO_PERFIL/output/github-contribution-grid-snake.svg">
   <img align="center" alt="Animação das suas contribuições no GitHub" src="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_REPOSITORIO_DO_PERFIL/output/github-contribution-grid-snake.svg">
 </picture>
