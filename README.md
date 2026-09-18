@@ -1,5 +1,4 @@
 <div align="center">
-  <!-- Troque SEU_TEXTO_ANIMADO_AQUI pela frase que você quer animar. Use + no lugar dos espaços. -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=73C74A&width=435&lines=Oii++bem-vindo+ao+meu+perfil+!" alt="Typing SVG" />
   </a>
@@ -10,8 +9,12 @@
 <table>
   <tr>
     <td width="68%" valign="middle">
+      <p><strong>Quem sou eu</strong></p>
       <p>Sou estudante de <em>Ciência da Computação</em> e atualmente <em>trabalho com suporte técnico N1</em>. Tenho interesse pela área de desenvolvimento de software, principalmente back-end, APIs e bancos de dados.</p>
       <p>Estou sempre buscando aprender novas tecnologias e colocar meus conhecimentos em prática por meio de projetos acadêmicos e pessoais. Neste perfil, você encontrará alguns dos projetos que desenvolvi ao longo dessa jornada. Espero que goste!</p>
+      <p><strong>About me</strong></p>
+      <p>I am a <em>Computer Science student</em> and currently <em>work in Level 1 technical support</em>. I am especially interested in back-end development, APIs, and databases.</p>
+      <p>I am always looking to learn new technologies and put what I learn into practice through academic and personal projects. Here, you will find some of the projects I have developed along the way. I hope you enjoy them!</p>
     </td>
     <td width="32%" align="center" valign="middle">
       <img alt="Animação patinho" width="240" src="./src/animacaopatinho.gif" />
@@ -30,7 +33,6 @@
 
 <h3 align="left">Minhas tecnologias ~</h3>
 
-<!-- Para trocar cada ícone, altere alt, title e src. Duplique ou remova blocos conforme sua preferência. -->
 <div align="left">
 <img
     alt="HTML"
@@ -70,9 +72,6 @@
 />
 </div>
 
-<h3 align="center">Estatísticas do GitHub</h3>
-
-<!-- Troque SEU_USUARIO_GITHUB nas duas URLs. Você também pode mudar cores e títulos pelos parâmetros das URLs. -->
 <table align="center">
   <tr>
     <td width="50%" align="center">
@@ -92,7 +91,6 @@
   </tr>
 </table>
 
-<!-- SVGs animados gerados diariamente pelo workflow .github/workflows/snake.yml na branch output. -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/helenafurtadoo/helenafurtadoo/output/github-contribution-grid-snake-dark.svg" />
