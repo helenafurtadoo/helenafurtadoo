@@ -23,8 +23,10 @@
 
 <h3 align="left">Conecte-se comigo!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-151515?style=for-the-badge&logo=microsoft-outlook&logoColor=FFD21A&labelColor=151515&color=FFC107)](mailto:helenafurtado25@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=FFD21A&labelColor=151515&color=FFC107)](https://www.linkedin.com/in/helenaguimar%C3%A3esfurtado/)
+<p align="left">
+  <a href="mailto:helenafurtado25@gmail.com"><img src="./src/email-badge.svg" alt="Email" width="86" height="26" /></a>
+  <a href="https://www.linkedin.com/in/helenaguimar%C3%A3esfurtado/"><img src="./src/linkedin-badge.svg" alt="LinkedIn" width="99" height="26" /></a>
+</p>
 
 <h3 align="left">Minhas tecnologias ~</h3>
 
