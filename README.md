@@ -12,7 +12,7 @@ Estou sempre buscando aprender novas tecnologias e colocar meus conhecimentos em
 
 
 <!-- Coloque o GIF escolhido na mesma pasta deste README e substitua SUA_ANIMACAO.gif pelo nome do arquivo. -->
-<img align="right" alt="Animação patinho" width="500px" height="400px" src="./src/animacaopatinho.gif">
+<img align="right" alt="Animação patinho" width="200px" height="200px" src="./src/animacaopatinho.gif">
 
 <h3 align="left">Conecte-se comigo!</h3>
 
@@ -71,7 +71,6 @@ Estou sempre buscando aprender novas tecnologias e colocar meus conhecimentos em
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
 <br/>
-
 
 <h3 align="left">Estatísticas do GitHub</h3>
 
