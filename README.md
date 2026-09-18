@@ -95,6 +95,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/helenafurtadoo/helenafurtadoo/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/helenafurtadoo/helenafurtadoo/output/github-contribution-grid-snake.svg" />
-    <img alt="Cobrinha animada comendo os dias de contribuição em vermelho" width="100%" src="https://raw.githubusercontent.com/helenafurtadoo/helenafurtadoo/output/github-contribution-grid-snake.svg" />
+    <img alt="Cobrinha animada comendo os dias de contribuição em verde" width="100%" src="https://raw.githubusercontent.com/helenafurtadoo/helenafurtadoo/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
