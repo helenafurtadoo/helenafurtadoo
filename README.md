@@ -5,15 +5,21 @@
   </a>
 </div>
 
-#
-Sou estudante de *Ciência da Computação* e atualmente *trabalho com suporte técnico N1*.Tenho interesse pela área de desenvolvimento de software, principalmente back-end, APIs e bancos de dados.
+<hr/>
 
-Estou sempre buscando aprender novas tecnologias e colocar meus conhecimentos em prática por meio de projetos acadêmicos e pessoais. Neste perfil, você encontrará alguns dos projetos que desenvolvi ao longo dessa jornada. Espero que goste!
-#
+<table>
+  <tr>
+    <td width="68%" valign="middle">
+      <p>Sou estudante de <em>Ciência da Computação</em> e atualmente <em>trabalho com suporte técnico N1</em>. Tenho interesse pela área de desenvolvimento de software, principalmente back-end, APIs e bancos de dados.</p>
+      <p>Estou sempre buscando aprender novas tecnologias e colocar meus conhecimentos em prática por meio de projetos acadêmicos e pessoais. Neste perfil, você encontrará alguns dos projetos que desenvolvi ao longo dessa jornada. Espero que goste!</p>
+    </td>
+    <td width="32%" align="center" valign="middle">
+      <img alt="Animação patinho" width="240" src="./src/animacaopatinho.gif" />
+    </td>
+  </tr>
+</table>
 
-
-<!-- Coloque o GIF escolhido na mesma pasta deste README e substitua SUA_ANIMACAO.gif pelo nome do arquivo. -->
-<img align="right" alt="Animação patinho" width="200px" height="200px" src="./src/animacaopatinho.gif">
+<hr/>
 
 <h3 align="left">Conecte-se comigo!</h3>
 
@@ -23,79 +29,67 @@ Estou sempre buscando aprender novas tecnologias e colocar meus conhecimentos em
 <h3 align="left">Minhas tecnologias ~</h3>
 
 <!-- Para trocar cada ícone, altere alt, title e src. Duplique ou remova blocos conforme sua preferência. -->
+<div align="left">
 <img
-    align="left"
     alt="HTML"
     title="HTML"
-    width="30px"
-    style="padding-right: 10px;"
+    width="36"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
 />
 <img
-    align="left"
     alt="CSS"
     title="CSS"
-    width="30px"
-    style="padding-right: 10px;"
+    width="36"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 />
 <img
-    align="left"
     alt="JavaScript"
     title="JavaScript"
-    width="30px"
-    style="padding-right: 10px;"
+    width="36"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
 <img
-    align="left"
     alt="Python"
     title="Python"
-    width="30px"
-    style="padding-right: 10px;"
+    width="36"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
 <img
-    align="left"
     alt="Java"
     title="Java"
-    width="30px"
-    style="padding-right: 10px;"
+    width="36"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
 <img
-    align="left"
     alt="Git"
     title="Git"
-    width="30px"
-    style="padding-right: 10px;"
+    width="36"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
-<br/>
+</div>
 
-<h3 align="left">Estatísticas do GitHub</h3>
+<h3 align="center">Estatísticas do GitHub</h3>
 
 <!-- Troque SEU_USUARIO_GITHUB nas duas URLs. Você também pode mudar cores e títulos pelos parâmetros das URLs. -->
-<p>
+<div align="center">
   <img
-    align="left"
     alt="Suas estatísticas do GitHub"
     height="200"
-    style="padding-right: 10px;"
     src="https://github-readme-stats-tvg6.vercel.app/api?username=helenafurtadoo&show_icons=true&locale=pt-br&hide=contribs&bg_color=151515&title_color=FFD21A&text_color=EAEAEA&icon_color=73C74A&border_color=3F7B30&ring_color=FFD21A&custom_title=Minhas%20estat%C3%ADsticas"
   />
 
   <img
-    align="left"
     alt="Suas linguagens mais usadas"
     height="200"
     src="https://github-readme-stats-tvg6.vercel.app/api/top-langs/?username=helenafurtadoo&layout=compact&custom_title=Tecnologias&langs_count=8&bg_color=151515&title_color=FFD21A&text_color=EAEAEA&icon_color=73C74A&border_color=3F7B30&ring_color=FFD21A"
   />
-</p>
+</div>
 
 <!-- Troque SEU_USUARIO_GITHUB e SEU_REPOSITORIO_DO_PERFIL nas três URLs. A animação depende de um SVG gerado no seu repositório. -->
-<picture align="center">
+<div align="center">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/helenafurtadoo/helenafurtadoo/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_REPOSITORIO_DO_PERFIL/output/github-contribution-grid-snake.svg">
   <img align="center" alt="Animação das suas contribuições no GitHub" src="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_REPOSITORIO_DO_PERFIL/output/github-contribution-grid-snake.svg">
 </picture>
+</div>
