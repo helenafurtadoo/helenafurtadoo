@@ -71,25 +71,30 @@
 <h3 align="center">Estatísticas do GitHub</h3>
 
 <!-- Troque SEU_USUARIO_GITHUB nas duas URLs. Você também pode mudar cores e títulos pelos parâmetros das URLs. -->
-<div align="center">
-  <img
-    alt="Suas estatísticas do GitHub"
-    height="200"
-    src="https://github-readme-stats-tvg6.vercel.app/api?username=helenafurtadoo&show_icons=true&locale=pt-br&hide=contribs&bg_color=151515&title_color=FFD21A&text_color=EAEAEA&icon_color=73C74A&border_color=3F7B30&ring_color=FFD21A&custom_title=Minhas%20estat%C3%ADsticas"
-  />
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        alt="Suas estatísticas do GitHub"
+        width="100%"
+        src="https://github-readme-stats-tvg6.vercel.app/api?username=helenafurtadoo&show_icons=true&locale=pt-br&hide=contribs&bg_color=151515&title_color=FFD21A&text_color=EAEAEA&icon_color=73C74A&border_color=3F7B30&ring_color=FFD21A&custom_title=Minhas%20estat%C3%ADsticas"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        alt="Suas linguagens mais usadas"
+        width="100%"
+        src="https://github-readme-stats-tvg6.vercel.app/api/top-langs/?username=helenafurtadoo&layout=compact&custom_title=Tecnologias&langs_count=8&bg_color=151515&title_color=FFD21A&text_color=EAEAEA&icon_color=73C74A&border_color=3F7B30&ring_color=FFD21A"
+      />
+    </td>
+  </tr>
+</table>
 
-  <img
-    alt="Suas linguagens mais usadas"
-    height="200"
-    src="https://github-readme-stats-tvg6.vercel.app/api/top-langs/?username=helenafurtadoo&layout=compact&custom_title=Tecnologias&langs_count=8&bg_color=151515&title_color=FFD21A&text_color=EAEAEA&icon_color=73C74A&border_color=3F7B30&ring_color=FFD21A"
-  />
-</div>
-
-<!-- Troque SEU_USUARIO_GITHUB e SEU_REPOSITORIO_DO_PERFIL nas três URLs. A animação depende de um SVG gerado no seu repositório. -->
+<!-- SVGs animados gerados diariamente pelo workflow .github/workflows/snake.yml na branch output. -->
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/helenafurtadoo/helenafurtadoo/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_REPOSITORIO_DO_PERFIL/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="Animação das suas contribuições no GitHub" src="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_REPOSITORIO_DO_PERFIL/output/github-contribution-grid-snake.svg">
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/helenafurtadoo/helenafurtadoo/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/helenafurtadoo/helenafurtadoo/output/github-contribution-grid-snake.svg" />
+    <img alt="Cobrinha animada comendo os dias de contribuição em vermelho" width="100%" src="https://raw.githubusercontent.com/helenafurtadoo/helenafurtadoo/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
