@@ -31,7 +31,7 @@
   <a href="https://www.linkedin.com/in/helenaguimar%C3%A3esfurtado/"><img src="./src/linkedin-badge.svg" alt="LinkedIn" width="99" height="26" /></a>
 </p>
 
-<h3 align="left">Minhas tecnologias ~</h3>
+<h3 align="left">Minhas tecnologias </h3>
 
 <div align="left">
 <img
