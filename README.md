@@ -9,12 +9,8 @@
 <table>
   <tr>
     <td width="68%" valign="middle">
-      <p><strong>Quem sou eu</strong></p>
       <p>Sou estudante de <em>Ciência da Computação</em> e atualmente <em>trabalho com suporte técnico N1</em>. Tenho interesse pela área de desenvolvimento de software, principalmente back-end, APIs e bancos de dados.</p>
       <p>Estou sempre buscando aprender novas tecnologias e colocar meus conhecimentos em prática por meio de projetos acadêmicos e pessoais. Neste perfil, você encontrará alguns dos projetos que desenvolvi ao longo dessa jornada. Espero que goste!</p>
-      <p><strong>About me</strong></p>
-      <p>I am a <em>Computer Science student</em> and currently <em>work in Level 1 technical support</em>. I am especially interested in back-end development, APIs, and databases.</p>
-      <p>I am always looking to learn new technologies and put what I learn into practice through academic and personal projects. Here, you will find some of the projects I have developed along the way. I hope you enjoy them!</p>
     </td>
     <td width="32%" align="center" valign="middle">
       <img alt="Animação patinho" width="240" src="./src/animacaopatinho.gif" />
