@@ -68,25 +68,6 @@
 />
 </div>
 
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <img
-        alt="Suas estatísticas do GitHub"
-        width="100%"
-        src="https://github-readme-stats-tvg6.vercel.app/api?username=helenafurtadoo&show_icons=true&locale=pt-br&hide=contribs&bg_color=2b2b28&title_color=4c97a6&text_color=EAEAEA&icon_color=003B00&border_color=4c97a6&ring_color=003B00&custom_title=Minhas%20estat%C3%ADsticas"
-      />
-    </td>
-    <td width="50%" align="center">
-      <img
-        alt="Suas linguagens mais usadas"
-        width="100%"
-        src="https://github-readme-stats-tvg6.vercel.app/api/top-langs/?username=helenafurtadoo&layout=compact&custom_title=Tecnologias&langs_count=8&bg_color=2b2b28&title_color=4c97a6&text_color=FFF&icon_color=003B00&border_color=4c97a6&ring_color=003B00"
-      />
-    </td>
-  </tr>
-</table>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/helenafurtadoo/helenafurtadoo/output/github-contribution-grid-snake-dark.svg" />
