@@ -20,7 +20,7 @@
 
 <hr/>
 
-<h3 align="left">Conecte-se comigo!</h3>
+<h3 align="left">Entre em comigo!</h3>
 
 <p align="left">
   <a href="mailto:helenafurtado25@gmail.com"><img src="./src/email-badge.svg" alt="Email" width="86" height="26" /></a>
